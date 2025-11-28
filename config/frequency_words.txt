@@ -116,8 +116,7 @@ NVIDIA
 GeForce
 RTX
 黄仁勋
-+发布
-!股价
+
 
 # [11] AMD (超威 - CPU与显卡)
 AMD
