@@ -117,7 +117,7 @@ GeForce
 RTX
 黄仁勋
 +AI
-+全员
++报告
 
 # [11] AMD (超威 - CPU与显卡)
 AMD
