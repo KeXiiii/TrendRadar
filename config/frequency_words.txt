@@ -117,9 +117,6 @@ GeForce
 RTX
 黄仁勋
 +发布
-+显卡
-+算力
-+Blackwell
 !股价
 
 # [11] AMD (超威 - CPU与显卡)
@@ -215,6 +212,3 @@ IGN
 Steam
 Epic
 +喜加一
-+免费
-+史低
-+特惠
